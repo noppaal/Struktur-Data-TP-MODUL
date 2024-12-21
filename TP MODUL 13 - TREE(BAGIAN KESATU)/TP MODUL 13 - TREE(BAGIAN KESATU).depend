@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1733585896 source:c:\users\lenovo\desktop\semester 3\tugas semester 3\std lab\tp modul 13 - tree(bagian kesatu)\main.cpp
+	"Tree.h"
+
+1733585141 c:\users\lenovo\desktop\semester 3\tugas semester 3\std lab\tp modul 13 - tree(bagian kesatu)\tree.h
+	<iostream>
+
+1733585860 source:c:\users\lenovo\desktop\semester 3\tugas semester 3\std lab\tp modul 13 - tree(bagian kesatu)\tree.cpp
+	"Tree.h"
+
